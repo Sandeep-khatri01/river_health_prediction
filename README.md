@@ -47,7 +47,5 @@ python river_health_gui.py
 ## How to add and push this to your repository
 Run these commands in your terminal to save the file and push it to your main branch on GitHub:
 ```
-git add requirements.txt
 git commit -m "Add requirements.txt"
-git push
 ```
